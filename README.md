@@ -1,4 +1,5 @@
 <h3 align="center">A passionate frontend developer from India</h3>
+<img src="https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif" alt="banner" width="500" height="600">
 
 - 🔭 I’m currently working on **Automation Bot**
 
