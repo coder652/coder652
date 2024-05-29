@@ -1,11 +1,11 @@
 <h3 align="center">A passionate developer ! Learning the art of code</h3>
 <img src="https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif" alt="banner" width="1500" height="200">
 
-- 🔭 I’m currently working on **Automation Bot**
+- 🔭 Working on **Automation Bot**
 
-- 🌱 I’m currently learning **Arduino, React , SQL**
+- 🌱 Learning **Arduino, React , SQL**
 
-- 💬 Ask me about **CAD , Revit , 3D-Design**
+- 💬 Ask about **CAD , Revit , 3D-Design**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
